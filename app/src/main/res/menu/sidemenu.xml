@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/home"
+        android:icon="@mipmap/ic_launcher"
+        android:title="HOME"/>
+    <item android:title="Pharmacy"
+        android:id="@+id/pharmacy"
+        />
+    <item android:title="Diagnostics"
+        android:id="@+id/diagnostics"
+        />
+    <item android:title="Blood Bank"
+        android:id="@+id/bloodbank"
+        />
+    <item android:title="Bineural Audio"
+        android:id="@+id/bineuralaudio"
+        />
+    <item android:title="Contact Us"
+        android:id="@+id/contactus"
+        />
+
+</group>
+    <group
+        android:checkableBehavior="single">
+        <item android:title="AUTHENTICATION">
+            <menu>
+<group android:checkableBehavior="single">
+    <item
+        android:title="Profile"
+       />
+    <item android:title="Logout"/>
+</group>
+            </menu>
+        </item>
+    </group>
+</menu>

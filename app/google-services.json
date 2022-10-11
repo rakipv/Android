@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055999729325",
+    "project_id": "medic-completedemo",
+    "storage_bucket": "medic-completedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055999729325:android:23188816ac262ed9047024",
+        "android_client_info": {
+          "package_name": "com.example.medic_complete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055999729325-pqhn9j4i4tiqhollkecb4ds9dmp1p6e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxYGVtSdVtu1V2SfzouN9c3sqnkLTKaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055999729325-pqhn9j4i4tiqhollkecb4ds9dmp1p6e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
